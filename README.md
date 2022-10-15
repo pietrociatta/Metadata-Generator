@@ -8,3 +8,16 @@ So basically is need to generate a "Iphone Collection" that has 3 version and 3 
 
 You can also generate images, but in this case is useless because there will be stored on ipfs only 3 different images and then the image link
 automatically pick the right name of the corresponding json
+
+# Example: <br/> <br/>
+{
+  name: "Iphone 4",
+  rarity: "Gold",
+  image: "https://image/Gold.png"
+}
+
+{
+  name: "Iphone 5",
+  rarity: "Silver",
+  image: "https://image/Silver.png"
+}
